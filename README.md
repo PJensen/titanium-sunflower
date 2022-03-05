@@ -1,6 +1,12 @@
-# ⚛ electron template
+# ⚛ Titanium-Sunflower 
 
-## Why would I do this?
+## Technologies
+
+* Electron
+* IPFS
+* Node
+
+# Why would I do this?
 
 Well... it's mostly because I couldn't find a started project that I actually wanted to use. The templates and boilerplates and starter apps all seemed to fit into two categories:
 * Following the tends: "Say, you like React and Redux and Webpack? I have an Electron starter script for you."
