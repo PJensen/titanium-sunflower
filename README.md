@@ -6,17 +6,9 @@
 * IPFS
 * Node
 
-# Why would I do this?
+![image](https://user-images.githubusercontent.com/54164/156901516-1603cd31-47b8-47fc-8b95-02092a4d6302.png)
 
-Well... it's mostly because I couldn't find a started project that I actually wanted to use. The templates and boilerplates and starter apps all seemed to fit into two categories:
-* Following the tends: "Say, you like React and Redux and Webpack? I have an Electron starter script for you."
-* Bare bones: Handle the minimum amount of code necessary to create a basic Electron app, then leave the user to their own devices.
-
-In both of these cases, the user is barely ready to actually create an app once they have started. They can even create more problems than they solve. So instead, I started down the route and creating Electron applications from scratch. Several applications in, and I am finding that I need to copy paste some code every time I start a new one. This is that code.
-
-It will be very opinionated. If you are offended by opinions that are not your own, this is probably not the template for you. If you are interested in learning more about or discussing these choices, I will be in the [issues section](https://github.com/catdad/electron-template/issues/new).
-
-Now, let's explore it!
+# Electron Details Template Below
 
 ## Getting started
 
